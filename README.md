@@ -48,7 +48,7 @@ SELECT * FROM PERSONS;
 
 ![image](https://github.com/user-attachments/assets/2c882ccf-a1f7-43ba-bf81-4a0fecbb615b)
 
-5. To remove column population
+5.To remove column population
    
 ALTER TABLE COUNTRY DROP COLUMN POPULATION;
 
@@ -60,7 +60,7 @@ TRUNCATE TABLE COUNTRY;
 
 DROP TABLE COUNTRY;
 
-8. Perform inner joins, left joins, right joins
+8.Perform inner joins, left joins, right joins
 
 #INNER JOIN
   
